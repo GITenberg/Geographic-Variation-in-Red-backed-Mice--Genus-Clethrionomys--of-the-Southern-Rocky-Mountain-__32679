@@ -1,0 +1,36 @@
+_repo: Geographic-Variation-in-Red-backed-Mice--Genus-Clethrionomys--of-the-Southern-Rocky-Mountain-__32679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fitch, Kenneth Leonard
+    alias: Fitch, Kenneth L.
+    birthdate: 1929
+    gutenberg_agent_id: '35983'
+    url: http://www.gutenberg.org/2009/agents/35983
+  - agent_name: Cockrum, E. Lendell
+    birthdate: 1920
+    deathdate: 2009
+    gutenberg_agent_id: '33756'
+    url: http://www.gutenberg.org/2009/agents/33756
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Variation'
+- !lcsh 'Mice'
+- !lcc 'QH'
+title: Geographic Variation in Red-backed Mice (Genus Clethrionomys) of the Southern
+  Rocky Mountain Region
+url: http://www.gutenberg.org/ebooks/32679
